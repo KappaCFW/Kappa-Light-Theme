@@ -1,6 +1,8 @@
 # Kappa Light Theme
 
 ![Kappa Light Theme ScreenShot](https://github.com/KappaCFW/Kappa-Light-Theme/assets/126100606/eff23b2d-4b47-4efe-b863-0d12943f5e20)
+![Kappa Light Theme ScreenShot](https://github.com/KappaCFW/Kappa-Light-Theme/assets/126100606/3fa77445-10e5-41a7-b624-8e8dc457a038)
+
 
 To use this theme, do what you would do to install Upsilon/Omega with the terminal, clean by using `make clean` and run the following command by modifying slot A or B and entering your username : 
 ```bash
