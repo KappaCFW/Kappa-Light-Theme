@@ -11,3 +11,5 @@ $ make epsilon.onboarding.A_flash OMEGA_USERNAME="Your Name" THEME_NAME=kappa_li
 Boom, your done ! Enjoy your brand new theme :)
 
 __(Note that the title in the title bar will be Upsilon and not Kappa!)__
+
+Kappa Light Theme is released under a [CC BY-NC-SA 4.0 Licence](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1).
